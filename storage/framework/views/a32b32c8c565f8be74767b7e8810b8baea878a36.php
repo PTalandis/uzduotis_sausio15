@@ -1,0 +1,1 @@
+<h1>delete1</h1><?php /**PATH C:\xampp\htdocs\laravel_projektai\uzduotis_sausio15\resources\views/company/destroy.blade.php ENDPATH**/ ?>
